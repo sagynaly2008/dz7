@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MenuTitle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/character_Fragment2"
+        android:icon="@drawable/ic_inactive"
+        />
+    <item android:id="@+id/location_Fragment2"
+        android:icon="@drawable/ic_active"
+        />
+
+</menu>

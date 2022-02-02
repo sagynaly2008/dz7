@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AndroidDz.7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alive">Alive</string>
+    <string name="rick_sanchez">Rick Sanchez</string>
+    <string name="morty_smith">Morty Smith</string>
+    <string name="dead">Dead</string>
+    <string name="albert_einstein">Albert Einstein</string>
+    <string name="jerry_smith">Jerry Smith</string>
+    <string name="planet">Planet</string>
+    <string name="earth_c_137">Earth (C-137)</string>
+    <string name="no_name">No Name</string>
+    <string name="earth">Earth (C-137)</string>
+    <string name="cluster">Cluster</string>
+    <string name="abadango">Abadango</string>
+    <string name="space_station">Space station</string>
+    <string name="citadel_of_ricks">Citadel of Ricks</string>
+    <string name="worldenders_lair">Worldender\'s lair</string>
+    <string name="microverse">Microverse</string>
+    <string name="anatomy_park">Anatomy Park</string>
+    <string name="tv">TV</string>
+    <string name="Interdimensional_cable">Interdimensional Cable</string>
+    <string name="resort">Resort</string>
+    <string name="Immortality_field_resort">Immortality Field Resort</string>
+    <string name="post_apocalyptic_earth">Post-Apocalyptic Earth</string>
+    <string name="purge_planet">Purge Planet</string>
+    <string name="venzenulon_7">Venzenulon 7</string>
+    <string name="bepis_9">Bepis 9</string>
+    <string name="cronenberg_earth">Cronenberg Earth</string>
+    <string name="nuptia_4">Nuptia 4</string>
+    <string name="st_gloopy_noops_hospital">St. Gloopy Noops Hospital</string>
+    <string name="gromflom_prime">Gromflom Prime</string>
+    <string name="earth_rpl_dimension">Earth (Rpl. Dimension)</string>
+    <string name="location">Location</string>
+    <string name="details">Details</string>
+</resources>
